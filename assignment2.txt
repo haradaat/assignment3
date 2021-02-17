@@ -13,16 +13,16 @@
       <nav class="container_header">
     <ul class="header clearfix">
         <div class="left_header">
-      <li><a href="#">Achieve</a></li>
+      <li><a href="#" class=link1>Achieve</a></li>
         </div>
         <div class="left_header2">
-      <li><a href="#">お問い合わせ</a></li>
+      <li><a href="#" class=link2>お問い合わせ</a></li>
         </div>
         <div class="right_header">
-      <li><a href="#">ログイン</a></li>
+      <li><a href="#" class=link3>ログイン</a></li>
         </div>
         <div class="right_header2">
-        <li><a href="#">サインアップ</a></li>
+        <li><a href="#" class=link3>サインアップ</a></li>
         </div>
     </ul>
    </nav>

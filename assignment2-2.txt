@@ -19,8 +19,22 @@ html {
       background-color: #3a3939;
       height:50px;
       padding-top:20px;
-      color:#ffffff;
   }
+ .link1{
+     color:#ffffff
+ }
+
+ .link2{
+    color:#ffffff
+}
+
+.link3{
+    color:#ffffff
+}
+
+.link4{
+    color:#ffffff
+}
 
   .left_header{
       float:left;
